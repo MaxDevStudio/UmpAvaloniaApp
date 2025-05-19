@@ -1,0 +1,20 @@
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+
+# .NET build output
+bin/
+obj/
+
+# NuGet packages
+packages/
+*.nupkg
+
+# LiteDB database files
+*.db
+
+# Other common ignores
+*.log
+*.pdb
+*.cache
